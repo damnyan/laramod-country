@@ -1,6 +1,7 @@
 {
     "name": "dmn-laramod/country-module",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "dc",
